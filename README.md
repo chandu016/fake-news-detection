@@ -1,0 +1,2 @@
+# fake-news-detection
+DETECTING THE FAKE  FROM THE GIVEN CONTENT
